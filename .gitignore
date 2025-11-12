@@ -1,0 +1,18 @@
+# ===== Frontend (React) =====
+node_modules/
+build/
+dist/
+.env
+
+# ===== Backend (Django) =====
+*.pyc
+__pycache__/
+db.sqlite3
+venv/
+.env
+
+# ===== System / Editor =====
+.DS_Store
+.vscode/
+.idea/
+*.log
